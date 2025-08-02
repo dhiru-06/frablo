@@ -135,9 +135,9 @@ svg{
 
   @media (min-width: 640px){
     .main-title h1{
-        font-size: 5rem;
+        font-size: 4rem;
  
-        font-weight: 700;
+        font-weight: 600;
         color: #555;
     }
     
@@ -152,9 +152,9 @@ svg{
      
     @media (min-width: 768px){
         .main-title h1{
-            font-size: 6rem;
+            font-size: 4rem;
             
-            font-weight: 800;
+            font-weight: 600;
             color: #555;
         }
         
